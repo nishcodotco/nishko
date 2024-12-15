@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/nishko/',
   entryPoints: {
     '': () => import('./main.server.mjs')
   },
