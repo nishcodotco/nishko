@@ -39,7 +39,8 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "baseHref": "/nishko/"
           },
           "configurations": {
             "production": {
