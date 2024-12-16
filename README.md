@@ -1,59 +1,67 @@
-# Site
+<a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="vedicdeveloper" width="100%" height=auto /></a>
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
+<p align="center">
+<!-- Twitter -->
+<a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="vedicdeveloper" width="30" /></a>&nbsp
+<!-- Instagram -->
+<a href="https://www.instagram.com/vedic.developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/instagram.png" alt="vedicdeveloper"  width="30" />
+</a>&nbsp
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/vedicdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/linkedin.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
+ <!-- Medium -->
+<a href="https://medium.com/@vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/medium.png"  alt="vedicdeveloper" width="30" /></a>&nbsp
+  <!-- Buy Me A Coffee -->
+<a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee.svg" alt="vedicdeveloper"  width="25" /></a>&nbsp
+   <!-- Gumroad -->
+<a href="https://vedicdeveloper.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
+</p>
 
-## Development server
+<!-- About Me -->
+<h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 
-To start a local development server, run:
+<p align="left">
+I am a passionate Open Source Developer, who commits code at night and merges it in day. The only goal of my life is to fulfill my intellectual desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Algorithms, Economics and GeoPolitics.
+</p>
 
-```bash
-ng serve
-```
+<br>
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+<!--My Tech Stack -->
+<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/mechanical-arm.gif" width="30"/>&nbsp <b>My Tech Stack</b></h2>
 
-## Code scaffolding
+<p align="left">
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/angular.png" width="60" height="60"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/firebase.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/red-hat.png" width="60" height="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/bash.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/docker.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/kubernetes.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/ansible.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/google-cloud.png" width="50" />&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/vscode.png" width="50">&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/github.png" width="50"/>&nbsp
+<img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/language-and-framework/git.png" width="50"/>&nbsp
+</p>
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+<br>
 
-```bash
-ng generate component component-name
-```
+<!--Honors & Awards -->
+<p align="left">
+<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/partying-face.gif" width="30"/>&nbsp <b>Certificates & Badges</b></h2>
+</p>
+<p align="left">
+<a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-data-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
+<a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
+</p>
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+<p align="left">
+<a href="https://api.badgr.io/public/assertions/9X3VFJzoR8iyFDe6oN8NNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/badges/postman-postman-api-fundamentals-students-expert.png"  alt="postman-api-fundamentals-students-expert" width="90" /></a>
+</p>
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<br>
+<!-- Support Me -->
+<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee-button.png" alt="vedicdeveloper"  width=250" /></a>&nbsp&nbsp
+ <a href="https://www.patreon.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/patreon-button.png" alt="Ko-Fi"  width="250" /></a>&nbsp&nbsp
+  <a href="https://ko-fi.com/S6S3F3U0T" target="blank"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="vedicdeveloper"  width="300" /></a>
+</p>
