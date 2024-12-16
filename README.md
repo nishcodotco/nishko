@@ -1,6 +1,6 @@
 <a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97366282/195646172-509e5d53-50ec-4887-8c7d-66871b3c17e7.jpg"  alt="vedicdeveloper" width="100%" height=auto /></a>
 
-<p align="center">
+<!-- <p align="center">
 <!-- Twitter -->
 <a href="https://twitter.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/twitter.png" alt="vedicdeveloper" width="30" /></a>&nbsp
 <!-- Instagram -->
@@ -14,7 +14,7 @@
 <a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee.svg" alt="vedicdeveloper"  width="25" /></a>&nbsp
    <!-- Gumroad -->
 <a href="https://vedicdeveloper.gumroad.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/gumroad.png" alt="gumroad"  width="40" /></a>&nbsp
-</p>
+</p> -->
 
 <!-- About Me -->
 <h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
@@ -59,9 +59,9 @@ I am a passionate Open Source Developer, who commits code at night and merges it
 
 <br>
 <!-- Support Me -->
-<h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
+<!-- <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/star-struck.gif" width="30"/>&nbsp <b>Liked my work, Support me here...</b></h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/buymeacoffee-button.png" alt="vedicdeveloper"  width=250" /></a>&nbsp&nbsp
  <a href="https://www.patreon.com/vedicdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/icons/patreon-button.png" alt="Ko-Fi"  width="250" /></a>&nbsp&nbsp
   <a href="https://ko-fi.com/S6S3F3U0T" target="blank"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="vedicdeveloper"  width="300" /></a>
-</p>
+</p> -->
