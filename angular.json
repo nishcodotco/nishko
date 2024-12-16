@@ -40,7 +40,7 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "baseHref": "/nishkodotco/"
+            "baseHref": "/nishkodotco/docs"
           },
           "configurations": {
             "production": {
