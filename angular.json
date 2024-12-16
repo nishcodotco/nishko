@@ -18,7 +18,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": {
-              "base" : "docs",
+              "base": "docs",
               "browser": "",
               "media": "media",
               "server": "server"
@@ -34,6 +34,11 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "CNAME",
+                "input": "./",
+                "output": "./"
               }
             ],
             "styles": [
