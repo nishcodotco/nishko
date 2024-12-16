@@ -45,7 +45,7 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "baseHref": "https://nishko.co/nishkodotco/"
+            "baseHref": "https://nishko.co/"
           },
           "configurations": {
             "production": {
