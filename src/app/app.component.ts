@@ -12,5 +12,4 @@ export class AppComponent {
   onClick() {
     console.log('Link clicked');
   }
-  
 }
