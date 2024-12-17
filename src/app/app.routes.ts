@@ -1,5 +1,7 @@
 import { Routes } from '@angular/router';
 import { HomeComponent } from './pages/home/home.component';
+import { ProjectsComponent } from './pages/projects/projects.component';
+import { BlogsComponent } from './pages/blogs/blogs.component';
 
 
 export const routes: Routes = [
@@ -10,12 +12,14 @@ export const routes: Routes = [
     },
     {
         path: 'projects',
-        loadComponent: () => import('./pages/projects/projects.component').then(c => c.ProjectsComponent),
+        component: ProjectsComponent,
+        // loadComponent: () => import('./pages/projects/projects.component').then(c => c.ProjectsComponent),
         title: 'nishko | projects'
     },
     {
         path: 'blogs',
-        loadComponent: () => import('./pages/blogs/blogs.component').then(c => c.BlogsComponent),
+        component: BlogsComponent,
+        // loadComponent: () => import('./pages/blogs/blogs.component').then(c => c.BlogsComponent),
         title: 'nishko | blogs',
 
     },
