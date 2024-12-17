@@ -1,0 +1,18 @@
+// Mixins (reusable SCSS functions)
+
+@mixin respond-to($breakpoint) {
+    @if $breakpoint == 'small' {
+      @media (max-width: 576px) { @content; }
+    }
+    @else if $breakpoint == 'medium' {
+      @media (max-width: 768px) { @content; }
+    }
+  }
+  
+  // Centering Content
+  @mixin center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
