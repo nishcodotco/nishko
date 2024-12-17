@@ -8,6 +8,5 @@ import { Component } from '@angular/core';
 })
 export class ProjectsComponent {
   constructor(){
-    console.log("PROJECTS COMPONENT => ")
   }
 }

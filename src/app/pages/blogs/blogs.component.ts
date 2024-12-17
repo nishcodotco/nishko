@@ -8,6 +8,5 @@ import { Component } from '@angular/core';
 })
 export class BlogsComponent {
   constructor(){
-    console.log("BLOGS COMPONENT => ")
   }
 }

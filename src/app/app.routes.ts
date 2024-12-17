@@ -12,14 +12,12 @@ export const routes: Routes = [
     },
     {
         path: 'projects',
-        component: ProjectsComponent,
-        // loadComponent: () => import('./pages/projects/projects.component').then(c => c.ProjectsComponent),
+        loadComponent: () => import('./pages/projects/projects.component').then(c => c.ProjectsComponent),
         title: 'nishko | projects'
     },
     {
         path: 'blogs',
-        component: BlogsComponent,
-        // loadComponent: () => import('./pages/blogs/blogs.component').then(c => c.BlogsComponent),
+        loadComponent: () => import('./pages/blogs/blogs.component').then(c => c.BlogsComponent),
         title: 'nishko | blogs',
 
     },
