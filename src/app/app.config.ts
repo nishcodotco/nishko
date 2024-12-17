@@ -8,9 +8,8 @@
   APP_BASE_HREF                   provider    for custome base path
 */
 
-
 import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
-import { provideRouter, withComponentInputBinding, withDebugTracing } from '@angular/router';
+import { provideRouter} from '@angular/router';
 import { routes } from './app.routes';
 
 export const appConfig: ApplicationConfig = {
