@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './blogs.component.scss'
 })
 export class BlogsComponent {
-
+  constructor(){
+    console.log("BLOGS COMPONENT => ")
+  }
 }
