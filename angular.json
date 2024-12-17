@@ -45,7 +45,7 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "baseHref": "https://nishko.co/"
+            "baseHref": "/"
           },
           "configurations": {
             "production": {
@@ -61,12 +61,14 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "baseHref": "https://nishko.co/"
             },
             "development": {
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "baseHref": "/"
             }
           },
           "defaultConfiguration": "production"
